@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use these scripts, please cite both the software and the workbook they read."
+title: "Sankeys linking GCOS Essential Climate Variables to the networks that observe them"
+type: software
+authors:
+  - family-names: Gunnarsson
+    given-names: Klara
+    affiliation: "European Space Agency"
+    orcid: "https://orcid.org/0009-0002-7011-1294"
+  - family-names: Connors
+    given-names: Sarah
+    affiliation: "European Space Agency"
+    orcid: "https://orcid.org/0000-0001-7150-5135"
+version: "1.0.0"
+date-released: "2026-09-22"
+license: MIT
+repository-code: "https://github.com/gunnarssonk/ecv-network-sankey"
+keywords:
+  - Essential Climate Variables
+  - ECV
+  - GCOS
+  - observing networks
+  - in situ observations
+  - satellite data records
+  - CEOS-CGMS ECV Inventory
+  - Earth observation
+  - climate monitoring
+  - Sankey
+  - data visualisation
+  - ESA
+references:
+  - type: data
+    title: "Observing the GCOS Essential Climate Variables"
+    authors:
+      - family-names: Gunnarsson
+        given-names: Klara
+        orcid: "https://orcid.org/0009-0002-7011-1294"
+      - family-names: Martín Míguez
+        given-names: Belén
+      - family-names: Bombelli
+        given-names: Antonio
+      - family-names: Tassone
+        given-names: Caterina
+      - family-names: Connors
+        given-names: Sarah
+        orcid: "https://orcid.org/0000-0001-7150-5135"
+    year: 2026
+    doi: 10.5281/zenodo.21702298
